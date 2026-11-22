@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
-<img src="https://skillicons.dev/icons?i=rust,go,py,html,django,fastapi,flask,linux,git&theme=dark&perline=9" alt="Core Stack Logos" />
+<img src="https://skillicons.dev/icons?i=rust,go,py,html,fastapi,flask,linux,git&theme=dark&perline=9" alt="Core Stack Logos" />
 
 * **Rust & Go:** Desarrollo de herramientas, servicios y sistemas.
 * **Python:** `Django` · `FastAPI` · `Flask` *(desarrollo, automatización e IA)*.
