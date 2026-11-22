@@ -25,10 +25,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-* **Rust & Go:** Desarrollo de herramientas, servicios y sistemas.
-* **Python:** `Django` · `FastAPI` · `Flask` *(desarrollo, automatización e IA)*.
-* **Web:** `HTML5` y frameworks web asociados a proyectos reales.
-
 * **Rust & Go:** Development of tools, services, and systems.
 * **Python:** Django · FastAPI · Flask (development, automation, and AI).
 * **Web:** HTML5 and web frameworks tied to real-world projects.
@@ -50,10 +46,10 @@
 
 ### `// TECHNICAL APPROACH`
 
-* **Software y web:** Desarrollo de aplicaciones web, servicios, herramientas e integraciones con **IA**.
-* **Sistemas, automatización y embebidos:** Scripts, automatización de procesos y proyectos con sistemas embebidos.
-* **Base práctica:** Experiencia de taller en diagnóstico y reparación de hardware, cómputo, servidores y electrónica.
-* **Ciberseguridad:** Actualmente cursando formación y realizando prácticas en protección de sistemas y simulación de ataques (`Red Team`).
+* **Software and web:** Development of web applications, services, tools, and **AI integrations**.
+* **Systems, automation, and embedded:** Scripts, process automation, and projects with embedded systems.
+* **Hands-on foundation:** Workshop experience in diagnostics and repair of hardware, computing equipment, servers, and electronics.
+* **Cybersecurity:** Currently pursuing training and hands-on practice in system protection and attack simulation (`Red Team`).
 
 
 
