@@ -32,7 +32,7 @@
 * **Python:** `Django` · `FastAPI` · `Flask` *(desarrollo, automatización e IA)*.
 * **Web:** `HTML5` y frameworks web asociados a proyectos reales.
 
-### `// EXPLORACIÓN`
+### `// EXPLORATION`
 
 
 ![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
@@ -47,7 +47,7 @@
 
 ---
 
-### `// ENFOQUE TÉCNICO`
+### `// TECHNICAL APPROACH`
 
 * **Software y web:** Desarrollo de aplicaciones web, servicios, herramientas e integraciones con **IA**.
 * **Sistemas, automatización y embebidos:** Scripts, automatización de procesos y proyectos con sistemas embebidos.
