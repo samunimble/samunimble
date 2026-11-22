@@ -29,6 +29,10 @@
 * **Python:** `Django` · `FastAPI` · `Flask` *(desarrollo, automatización e IA)*.
 * **Web:** `HTML5` y frameworks web asociados a proyectos reales.
 
+* **Rust & Go:** Development of tools, services, and systems.
+* **Python:** Django · FastAPI · Flask (development, automation, and AI).
+* **Web:** HTML5 and web frameworks tied to real-world projects.
+
 ### `// EXPLORATION`
 
 
