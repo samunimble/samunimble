@@ -22,10 +22,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
-<h4>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=450&pause=1200&color=7C3AED&center=false&vCenter=true&repeat=true&width=52&height=22&lines=%3E;%3E%3E;%3E%3E%3E" alt=">>>" />
-  MAIN LANGUAGE
-</h4>
+<h5>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1200&pause=800&color=8B5CF6&center=false&vCenter=true&repeat=true&width=240&height=22&lines=%3E%3E%3E+MAIN+LANGUAGE" alt=">>> MAIN LANGUAGE" />
+</h5>
 
 
 
