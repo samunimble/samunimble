@@ -5,14 +5,14 @@
 </div>
 
 ### Hello, I'm Victor Samuel 👋🏼
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samunimble/)
 ---
 
 > SOFTWARE DEVELOPER · SYSTEMS, AUTOMATION & EMBEDDED
 
 ---
 ### SOCIAL
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samunimble/)
+
 ---
 
 ### `// CORE STACK`
