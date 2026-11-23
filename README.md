@@ -19,11 +19,11 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
 ### 💻 TECHNICAL SKILLS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
 **>>>Main language**
 
