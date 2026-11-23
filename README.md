@@ -2,7 +2,7 @@
 
 <img src="assets/Banner.jpeg" alt="Banner" width="100%" />
 
-### `// SAMUEL`
+### // SAMUEL
 `SOFTWARE DEVELOPER · SYSTEMS, AUTOMATION & EMBEDDED`
 
 </div>
@@ -10,6 +10,7 @@
 ---
 ### SOCIAL
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samunimble/)
+---
 
 ### `// CORE STACK`
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +29,8 @@
 * **Rust & Go:** Development of tools, services, and systems.
 * **Python:** Django · FastAPI · Flask (development, automation, and AI).
 * **Web:** HTML5 and web frameworks tied to real-world projects.
+
+---
 
 ### `// EXPLORATION`
 
