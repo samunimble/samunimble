@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samunimble/)
 ---
 
-> SOFTWARE DEVELOPER · SYSTEMS, AUTOMATION & EMBEDDED
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EB67F7&width=435&lines=SOFTWARE+DEVELOPER+%C2%B7+SYSTEMS%2C+AUTOMATION+%26+EMBEDDED)](https://git.io/typing-svg)
 
 ---
 
