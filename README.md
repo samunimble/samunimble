@@ -39,10 +39,15 @@
   <img align="absmiddle" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=900&pause=600&color=8B5CF6&center=false&vCenter=true&repeat=true&width=38&height=24&lines=%3E%3E%3E" alt=">>>" />EMBEDDED SYSTEMS AND DEVOPS
 </h5>
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+
+
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-181717?style=for-the-badge&logo=microchip&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2726?style=for-the-badge&logo=micropython&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
