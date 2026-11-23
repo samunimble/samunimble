@@ -32,9 +32,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-* **Rust & Go:** Development of tools, services, and systems.
-* **Python:** Django · FastAPI · Flask (development, automation, and AI).
-
 <h5>
   <img align="absmiddle" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=900&pause=600&color=8B5CF6&center=false&vCenter=true&repeat=true&width=38&height=24&lines=%3E%3E%3E" alt=">>>" />EMBEDDED SYSTEMS AND DEVOPS
 </h5>
