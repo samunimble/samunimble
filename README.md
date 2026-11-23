@@ -60,9 +60,6 @@
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&icon_color=bb9af7)
 
-<img src="https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&icon_color=bb9af7" alt="GitHub Stats" width="420" />
-
-
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&langs_count=8)
 
 <picture>
