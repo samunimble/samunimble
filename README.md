@@ -14,7 +14,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samunimble&show_icons=true&theme=shadow_purple&hide_border=true&border_radius=10&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=shadow_purple&hide_border=true&border_radius=10&langs_count=8)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=shadow_purple&hide_border=true&border_radius=10&langs_count=8)
+
 
 
 ### `// CORE STACK`
