@@ -22,7 +22,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
-**>>>Main language**
+<h4>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=900&pause=600&color=8B5CF6&center=false&vCenter=true&repeat=true&width=48&height=22&lines=%3E%3E%3E" alt=">>>" />
+  MAIN LANGUAGE
+</h4>
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
