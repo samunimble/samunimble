@@ -57,9 +57,11 @@
 * **Hands-on foundation:** Workshop experience in diagnostics and repair of hardware, computing equipment, servers, and electronics.
 * **Cybersecurity:** Currently pursuing training and hands-on practice in system protection and attack simulation (`Red Team`).
 
+---
 
+<p align="center">📊STATS</p>
 
-### STATS
+---
 
 <div align="center" >
 
