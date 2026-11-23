@@ -7,7 +7,7 @@
 ### Hey, I'm Victor Samuel
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samunimble/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=37005e&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
 
 <div align="center">
