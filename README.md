@@ -23,7 +23,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
 <h5>
-  <img align="absmiddle" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=900&pause=600&color=8B5CF6&center=false&vCenter=true&repeat=true&width=38&height=16&lines=%3E%3E%3E" alt=">>>" /> MAIN LANGUAGE
+  <img align="absmiddle" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=900&pause=600&color=8B5CF6&center=false&vCenter=true&repeat=true&width=38&height=20&lines=%3E%3E%3E" alt=">>>" />MAIN LANGUAGE
 </h5>
 
 
