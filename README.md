@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samunimble/)
 
 ### TECHNICAL SKILLS
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=28&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header" width="100%" />
 
 
 <div align="center">
