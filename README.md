@@ -6,7 +6,10 @@
 
 ### Hey, I'm Victor Samuel
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samunimble/)
----
+
+### TECHNICAL SKILLS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=28&section=header" width="100%" />
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
