@@ -79,8 +79,8 @@
 ![PIC](https://img.shields.io/badge/PIC-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
 ![Microchip](https://img.shields.io/badge/Microchip-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC-2E3440?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Pentesting-B91C1C?style=flat&logo=kalilinux&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Focused-0A66C2?style=flat&logo=shieldcheck&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=shieldcheck&logoColor=white)
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
