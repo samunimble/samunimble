@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Una vez al día (UTC)
-  workflow_dispatch: # Permite lanzarlo a mano desde la pestaña Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -14,7 +14,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: samunimble
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
