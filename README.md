@@ -50,15 +50,6 @@
 
 ---
 
-### `// TECHNICAL APPROACH`
-
-* **Software and web:** Development of web applications, services, tools, and **AI integrations**.
-* **Systems, automation, and embedded:** Scripts, process automation, and projects with embedded systems.
-* **Hands-on foundation:** Workshop experience in diagnostics and repair of hardware, computing equipment, servers, and electronics.
-* **Cybersecurity:** Currently pursuing training and hands-on practice in system protection and attack simulation (`Red Team`).
-
----
-
 <p align="center">📊STATS</p>
 
 ---
