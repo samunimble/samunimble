@@ -16,9 +16,6 @@
   </a>
 </div>
 
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
 ### 💻 TECHNICAL SKILLS
@@ -42,11 +39,11 @@
 * **Python:** Django · FastAPI · Flask (development, automation, and AI).
 * **Web:** HTML5 and web frameworks tied to real-world projects.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
-<p align="center">🔍EXPLORATION</p>
+### 🔍 EXPLORATION
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
 
 ![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
@@ -58,14 +55,13 @@
 ![Crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
----
+### 📊 STATS
 
-<p align="center">📊STATS</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
----
-
-<div align="center" >
+<div align="center">
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&icon_color=bb9af7)
 
