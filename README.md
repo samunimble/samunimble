@@ -56,17 +56,13 @@
 
 ### STATS
 
+<div align="center" >
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samunimble&theme=shadow-purple&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&icon_color=bb9af7" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&langs_count=8" alt="Top Langs" />
-</p>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&icon_color=bb9af7)
 
-
-
-
-<div align="center">
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&langs_count=8)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samunimble/samunimble/output/github-snake-dark.svg" />
