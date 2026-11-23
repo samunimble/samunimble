@@ -80,6 +80,9 @@
 ![Microchip](https://img.shields.io/badge/Microchip-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC-2E3440?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=shieldcheck&logoColor=white)
+![Security](https://img.shields.io/badge/Security-1E293B?style=for-the-badge&logo=gnupg&logoColor=white)
+![Red Team](https://img.shields.io/badge/Red%20Team-B91C1C?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-991B1B?style=for-the-badge&logo=metasploit&logoColor=white)
 
 
 
