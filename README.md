@@ -33,7 +33,9 @@
 
 ---
 
-### `// EXPLORATION`
+<p text-align="center">EXPLORATION</p>
+
+---
 
 
 ![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
