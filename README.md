@@ -20,7 +20,10 @@
 
 ---
 
-### 💻TECHNICAL SKILLS
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="26" height="26" /> TECHNICAL SKILLS
+</h2>
+
 
 **Main language**
 
