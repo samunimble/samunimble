@@ -3,6 +3,7 @@
 <img src="assets/Banner.jpeg" alt="Banner" width="100%" />
 
 </div>
+
 ### // SAMUEL
 `SOFTWARE DEVELOPER · SYSTEMS, AUTOMATION & EMBEDDED`
 
