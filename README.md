@@ -17,10 +17,10 @@
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2&section=header" width="100%" />
 
----
+### 💻 TECHNICAL SKILLS
 
-### TECHNICAL SKILLS
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2&section=header" width="100%" />
 
 
