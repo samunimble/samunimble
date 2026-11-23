@@ -20,9 +20,9 @@
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="26" height="26" /> TECHNICAL SKILLS
-</h2>
+### TECHNICAL SKILLS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2&section=header" width="100%" />
+
 
 
 **Main language**
