@@ -12,7 +12,7 @@
 
 ---
 
-##💻TECHNICAL SKILLS
+## 💻TECHNICAL SKILLS
 
 ----
 
