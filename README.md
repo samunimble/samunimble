@@ -12,7 +12,7 @@
 
 ---
 <div align="center">
-<p style="font-weight: bold;">💻TECHNICAL SKILLS</p>
+💻TECHNICAL SKILLS
 </div>
 
 ----
