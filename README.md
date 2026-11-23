@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center">##💻TECHNICAL SKILLS</p>
+##💻TECHNICAL SKILLS
 
 ----
 
