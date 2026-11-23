@@ -58,7 +58,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samunimble&theme=shadow-purple&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=samunimble&theme=dracula&hide_border=true&border_radius=15.5&size=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=shadow_purple&hide_border=true&border_radius=10&langs_count=8)
+
 
 <div align="center">
 
