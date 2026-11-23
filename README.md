@@ -26,11 +26,6 @@
   <img align="absmiddle" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=900&pause=600&color=8B5CF6&center=false&vCenter=true&repeat=true&width=38&height=24&lines=%3E%3E%3E" alt=">>>" />MAIN LANGUAGE
 </h5>
 
-
-
-
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -40,6 +35,9 @@
 * **Rust & Go:** Development of tools, services, and systems.
 * **Python:** Django · FastAPI · Flask (development, automation, and AI).
 
+<h5>
+  <img align="absmiddle" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=900&pause=600&color=8B5CF6&center=false&vCenter=true&repeat=true&width=38&height=24&lines=%3E%3E%3E" alt=">>>" />EMBEDDED SYSTEMS AND DEVOPS
+</h5>
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -47,14 +45,6 @@
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-1B365D?style=for-the-badge&logo=microchip&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2726?style=for-the-badge&logo=micropython&logoColor=white)
-![Texas Instruments](https://img.shields.io/badge/Texas%20Instruments-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
-![PIC](https://img.shields.io/badge/PIC-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
-![Microchip](https://img.shields.io/badge/Microchip-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-2E3440?style=for-the-badge)
-
-
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -78,6 +68,11 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Texas Instruments](https://img.shields.io/badge/Texas%20Instruments-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
+![Microchip](https://img.shields.io/badge/Microchip-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-2E3440?style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
