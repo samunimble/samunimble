@@ -78,7 +78,6 @@
 ![Texas Instruments](https://img.shields.io/badge/Texas%20Instruments-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
 ![PIC](https://img.shields.io/badge/PIC-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
 ![Microchip](https://img.shields.io/badge/Microchip-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC-2E3440?style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
