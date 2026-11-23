@@ -8,7 +8,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samunimble/)
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=5500&pause=1000&delay=10&color=E011FF&vCenter=true&width=640&height=100&lines=+SOFTWARE+DEVELOPER+%C2%B7+SYSTEMS%2C+AUTOMATION+%26+EMBEDDED)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=38BDF8&center=true&vCenter=true&repeat=true&width=620&height=36&lines=SOFTWARE+DEVELOPER+%E2%80%A2+SYSTEMS;AUTOMATION+%26+EMBEDDED+ENGINEERING;LOW-LEVEL+%E2%80%A2+ARCHITECTURE+%E2%80%A2+RELIABILITY" alt="Typing SVG" />
+  </a>
+</div>
+
 
 ---
 
