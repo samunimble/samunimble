@@ -67,6 +67,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=shadow_purple&hide_border=true&border_radius=10&langs_count=8)
 
+| | |
+| :---: | :---: |
+| ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&icon_color=bb9af7) | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&langs_count=8) |
+
+
 
 <div align="center">
 
