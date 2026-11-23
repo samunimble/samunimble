@@ -4,7 +4,10 @@
 
 </div>
 
-### // SAMUEL
+### Hello, I'm Victor Samuel 👋🏼
+
+---
+
 `SOFTWARE DEVELOPER · SYSTEMS, AUTOMATION & EMBEDDED`
 
 ---
