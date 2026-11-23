@@ -11,9 +11,8 @@
 > SOFTWARE DEVELOPER · SYSTEMS, AUTOMATION & EMBEDDED
 
 ---
-<div align="center">
-💻TECHNICAL SKILLS
-</div>
+
+<p align="center">**💻TECHNICAL SKILLS**</p>
 
 ----
 
