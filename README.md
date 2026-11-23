@@ -60,4 +60,11 @@
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=samunimble&theme=dracula&hide_border=true&border_radius=15.5&size=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samunimble/samunimble/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samunimble/samunimble/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/samunimble/samunimble/output/github-snake.svg" />
+</picture>
+
+
 <sub>`[STATUS: ACTIVE · BUILDING & STUDYING SECURITY]` · `// END OF FILE`</sub>
