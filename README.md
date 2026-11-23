@@ -12,7 +12,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samunimble&show_icons=true&theme=shadow_purple&hide_border=true&border_radius=10&rank_icon=github)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=shadow_purple&hide_border=true&border_radius=10)
+
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=shadow_purple&hide_border=true&border_radius=10&langs_count=8)
 
