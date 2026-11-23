@@ -8,7 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samunimble/)
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E011FF&vCenter=true&width=435&height=150&lines=SOFTWARE+DEVELOPER+%C2%B7+SYSTEMS%2C+AUTOMATION+%26+EMBEDDED)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=5500&pause=1000&delay=10&color=E011FF&vCenter=true&width=640&height=100&lines=+SOFTWARE+DEVELOPER+%C2%B7+SYSTEMS%2C+AUTOMATION+%26+EMBEDDED)](https://git.io/typing-svg)
+
 ---
 
 ### 💻TECHNICAL SKILLS
