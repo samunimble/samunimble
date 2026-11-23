@@ -58,11 +58,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samunimble&theme=shadow-purple&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=shadow_purple&hide_border=true&border_radius=10&langs_count=8)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&icon_color=bb9af7" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&langs_count=8" alt="Top Langs" />
+</p>
 
-| | |
-| :---: | :---: |
-| ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&icon_color=bb9af7) | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&langs_count=8) |
 
 
 
