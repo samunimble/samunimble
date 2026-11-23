@@ -33,7 +33,7 @@
 
 ---
 
-<p text-align="center">EXPLORATION</p>
+<p align="center">EXPLORATION</p>
 
 ---
 
