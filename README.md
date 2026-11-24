@@ -38,8 +38,6 @@
 
 
 
-![Atmel](https://img.shields.io/badge/Atmel-0079C1?style=for-the-badge)
-![Atmel](https://img.shields.io/badge/Atmel-00878F?style=for-the-badge)
 
 
 
@@ -48,7 +46,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2726?style=for-the-badge&logo=micropython&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Atmel](https://img.shields.io/badge/Atmel-00878F?style=for-the-badge)
+![Nordic](https://img.shields.io/badge/Nordic-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white)
+![Teensy](https://img.shields.io/badge/Teensy-2E7D32?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
