@@ -38,8 +38,8 @@
 
 
 
-![Atmel AVR](https://img.shields.io/badge/Atmel%20AVR-0079C1?style=for-the-badge&logo=microchip&logoColor=white)
-![Atmel AVR](https://img.shields.io/badge/Atmel%20AVR-0079C1?style=for-the-badge&logo=microchip&logoColor=white)
+![Atmel](https://img.shields.io/badge/Atmel-0079C1?style=for-the-badge)
+
 
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-181717?style=for-the-badge&logo=microchip&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
