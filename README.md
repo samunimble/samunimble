@@ -39,6 +39,8 @@
 
 
 ![Atmel](https://img.shields.io/badge/Atmel-0079C1?style=for-the-badge)
+![Atmel](https://img.shields.io/badge/Atmel-00878F?style=for-the-badge)
+
 
 
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-181717?style=for-the-badge&logo=microchip&logoColor=white)
