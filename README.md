@@ -9,7 +9,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=36&lines=SOFTWARE+DEVELOPER+%E2%80%A2+SYSTEMS+%E2%80%A2+AUTOMATION+%26+EMBEDDED;LOW-LEVEL+%E2%80%A2+ARCHITECTURE+%E2%80%A2+RELIABILITY" alt="Typing SVG" />
@@ -36,16 +35,11 @@
   <img align="absmiddle" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=900&pause=600&color=8B5CF6&center=false&vCenter=true&repeat=true&width=38&height=24&lines=%3E%3E%3E" alt=">>>" />EMBEDDED SYSTEMS AND DEVOPS
 </h5>
 
-
-
-
-
-
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-181717?style=for-the-badge&logo=microchip&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2726?style=for-the-badge&logo=micropython&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2726?style=for-the-badge&logo=python&logoColor=white)
 ![Atmel](https://img.shields.io/badge/Atmel-00878F?style=for-the-badge)
 ![Nordic](https://img.shields.io/badge/Nordic-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white)
 ![Teensy](https://img.shields.io/badge/Teensy-2E7D32?style=for-the-badge)
@@ -62,7 +56,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
 ### ⭐ Projects
@@ -73,22 +66,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
-
 ![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Texas Instruments](https://img.shields.io/badge/Texas%20Instruments-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![Texas Instruments](https://img.shields.io/badge/Texas%20Instruments-CC0000?style=for-the-badge)
 ![PIC](https://img.shields.io/badge/PIC-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
 ![Microchip](https://img.shields.io/badge/Microchip-E01A22?style=for-the-badge&logo=microchip&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC-2E3440?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=shieldcheck&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-1E293B?style=for-the-badge&logo=gnupg&logoColor=white)
 ![Red Team](https://img.shields.io/badge/Red%20Team-B91C1C?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Pentesting](https://img.shields.io/badge/Pentesting-991B1B?style=for-the-badge&logo=metasploit&logoColor=white)
-
-
+![Pentesting](https://img.shields.io/badge/Pentesting-991B1B?style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
