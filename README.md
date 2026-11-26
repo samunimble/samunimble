@@ -46,12 +46,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2726?style=for-the-badge&logo=python&logoColor=white&v=2)
-![Texas Instruments](https://img.shields.io/badge/Texas%20Instruments-CC0000?style=for-the-badge&v=2)
-![PIC](https://img.shields.io/badge/PIC-E01A22?style=for-the-badge&logo=microchip&logoColor=white&v=2)
-![Pentesting](https://img.shields.io/badge/Pentesting-991B1B?style=for-the-badge&v=2)
-
-
 <h5>
   <img align="absmiddle" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=900&pause=600&color=8B5CF6&center=false&vCenter=true&repeat=true&width=38&height=24&lines=%3E%3E%3E" alt=">>>" />WEB TECHNOLOGIES
 </h5>
