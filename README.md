@@ -79,15 +79,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
 
-### 📊 STATS
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4a1073&height=2&section=header" width="100%" />
-
 <div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=samunimble&show_icons=true&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&icon_color=bb9af7)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samunimble&layout=compact&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b26&title_color=9d7cd8&text_color=7dcfff&langs_count=8)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samunimble/samunimble/output/github-snake-dark.svg" />
