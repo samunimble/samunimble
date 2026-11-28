@@ -1,0 +1,4 @@
+cat << 'EOF' > .gitignore
+workflows/
+.DS_Store
+EOF
